@@ -1,0 +1,7 @@
+*.db
+*.log
+*.env
+
+target
+bin
+.idea
